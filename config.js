@@ -54,7 +54,7 @@ Example : You Need "Main Commands" Send Me ".mainmenu" Then You Will Get "Main C
 Contact Bhashi : https://wa.me/94786328485`,
 
 
-MAIN_MENU: process.env.MAIN_MENU=`‎‎Hello I'm Bhashi MD Your Frendly Bot Assistant. This is My Main Commands List. Enjoi Now.
+MAIN_MENU: process.env.MAIN_MENU=`‎‎Hello I'm Bhashi MD Your Frendly Bot Assistant. This is My Main Commands List. Enjoi Now.`
 
 
 📂 𝗮𝗹𝗶𝘃𝗲
